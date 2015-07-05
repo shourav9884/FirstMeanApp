@@ -1,0 +1,10 @@
+{
+    "name" : "nati-app",
+    "version" : "1.0.0",
+    "dependencies" : {
+        "express" : "latest",
+        "gulp" : "latest",
+	"mongojs" : "latest",
+	"body-parser" : "latest"
+    }
+}
